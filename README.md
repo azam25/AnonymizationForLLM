@@ -15,26 +15,37 @@ Privacy‑first text anonymization for LLM and RAG pipelines
 
 <br/>
 
-**Slogan:** <b>Use confidential data with any LLM — with 100% privacy (GDPR and HIPPA Compliance).</b>
+ <b>Use confidential data with any LLM — with 100% privacy (GDPR and HIPPA Compliance).</b>
 
 </div>
 
 ---
 
 ## 🔗 Quick Links
-- [✨ Features](#-features)
-- [🧠 RAG Workflow](#-how-it-works-rag-integration)
-- [📦 Installation](#-installation)
-- [🚀 Quickstart](#-quickstart)
-- [📚 Usage Examples](#-usage-examples)
-- [🧩 RAG Integration (Example)](#-rag-integration-example)
-- [🛡️ Security & Key Management](#-security--key-management)
-- [🧪 Tests](#-testing)
-- [🔧 Public API](#-public-api)
-- [⚙️ Configuration](#-configuration)
-- [📈 Performance Tips](#-performance-tips)
-- [🗺️ Roadmap](#-roadmap)
-- [🤝 Contributing](#-contributing)
+- [LLM Anonymization](#llm-anonymization)
+  - [🔗 Quick Links](#-quick-links)
+  - [✨ Features](#-features)
+  - [✨ Architecture Diagram](#-architecture-diagram)
+  - [🧠 How it works (RAG integration)](#-how-it-works-rag-integration)
+  - [✨ Architecture Diagram](#-architecture-diagram-1)
+  - [📦 Installation](#-installation)
+  - [🚀 Quickstart](#-quickstart)
+  - [📚 Usage Examples](#-usage-examples)
+    - [**Project Structure**](#project-structure)
+    - [**Example 1: Basic Text Anonymization**](#example-1-basic-text-anonymization)
+    - [**Example 2: Document Processing for RAG**](#example-2-document-processing-for-rag)
+    - [**Example 3: Batch Processing**](#example-3-batch-processing)
+    - [**Example 4: Integration with Vector Database**](#example-4-integration-with-vector-database)
+    - [**Example 5: Configuration and Environment**](#example-5-configuration-and-environment)
+  - [🧩 RAG Integration (Example)](#-rag-integration-example)
+  - [🛡️ Security \& Key Management](#️-security--key-management)
+  - [🧪 Testing](#-testing)
+  - [🔧 Public API (At a Glance)](#-public-api-at-a-glance)
+  - [⚙️ Configuration](#️-configuration)
+  - [📈 Performance Tips](#-performance-tips)
+  - [🗺️ Roadmap](#️-roadmap)
+  - [🤝 Contributing](#-contributing)
+  - [📄 License](#-license)
 
 ---
 
