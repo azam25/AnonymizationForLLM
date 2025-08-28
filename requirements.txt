@@ -1,0 +1,51 @@
+# Core dependencies for enhanced text anonymization system
+spacy>=3.7.0
+pandas>=1.5.0
+cryptography>=41.0.0
+
+# File and path handling
+pathlib2>=2.3.7
+
+# Type hints and annotations
+typing-extensions>=4.0.0
+
+# Additional dependencies for enhanced features
+# Note: Some packages may already be included with the core dependencies above
+
+# For enhanced logging and file handling
+# (logging is built-in with Python 3.7+)
+
+# For concurrent processing and batch operations
+# (concurrent.futures is built-in with Python 3.7+)
+
+# For JSON handling
+# (json is built-in with Python)
+
+# For base64 encoding/decoding
+# (base64 is built-in with Python)
+
+# For time operations
+# (time is built-in with Python)
+
+# For regular expressions
+# (re is built-in with Python)
+
+# For random number generation
+# (random is built-in with Python)
+
+# For string operations
+# (string is built-in with Python)
+
+# For operating system interface
+# (os is built-in with Python)
+
+# For input/output operations
+# (io is built-in with Python)
+
+# For path operations
+# (pathlib is built-in with Python 3.4+)
+
+# Installation instructions:
+# 1. Install Python dependencies: pip install -r requirements.txt
+# 2. Download SpaCy models: python -m spacy download en_core_web_lg
+# 3. Run installation script: python install.py
